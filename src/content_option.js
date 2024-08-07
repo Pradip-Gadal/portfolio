@@ -9,7 +9,7 @@ const introdata = {
     animated: {
         first: "I love teaching",
         second: "I teach cool",
-        third: "I love tech. much",
+        third: "I love tech. too",
     },
     description: "I’m Pradip Gadal experianced Teacher _ Physics and Mathematics,currently pursuing Master in Physics",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
